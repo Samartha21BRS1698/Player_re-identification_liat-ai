@@ -95,6 +95,7 @@ output/tracked_video.mp4
 
 **Samartha**  
 B.Tech student 
+
 • AI/ML • Data Science •  Computer Vision • Google Cloud 
 
 [LinkedIn](https://www.linkedin.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
