@@ -64,29 +64,33 @@ output/tracked_video.mp4
 
 
 ## Features
+```bash
 -> Uses YOLOv11 fine-tuned for players (class ID = 2)
 -> Assigns consistent unique IDs to each player
 -> Tracks players even after they disappear and re-enter
 -> Handles multiple re-entries, occlusions, and partial overlaps
 -> Capped ID range to prevent jumping (IDs range from 0–29)
-
+```
 ## Technologies Used
+```bash
 -> Python 3.10+ — Core programming language used
 -> YOLOv11 (Ultralytics) — Fine-tuned object detection model for players and ball
 -> OpenCV — Frame-by-frame video processing, drawing bounding boxes and saving output
 -> NumPy — For numerical operations and bounding box comparisons
 -> Virtual Environment (venv) — Environment isolation to manage dependencies
-
+```
 ## Limitations
+```bash
 -> No deep appearance-based tracking (yet)
 -> Players with identical appearance may swap IDs occasionally
 -> Currently optimized for one camera feed only
-
+```
 ## Future Work
+```bash
 -> Integrating DeepSORT or color histogram appearance features
 -> Extend to multi-camera cross-feed Re-ID
 -> Adding re-ID heatmaps and tracking analytics
-
+```
 ## Author
 
 **Samartha**  
@@ -94,8 +98,5 @@ B.Tech student
 🎓 AI/ML • Data Science •  Computer Vision • Google Cloud 
 🔗 [LinkedIn](https://www.linkedin.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
 
-## 📝 License
-n.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
-
-## 📝 License
+## License
  MIT License © 2025 Samartha
