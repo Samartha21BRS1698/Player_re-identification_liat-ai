@@ -50,7 +50,8 @@ pip install -r requirements.txt
 
 ## Run the Code
 
-Make sure: weights/best.pt (YOLOv11 custom model) is present
+Make sure weights/best.pt (YOLOv11 custom model) is present. 
+
 link:- https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
 
 input/15sec_input_720p.mp4 is the target video
@@ -92,6 +93,9 @@ output/tracked_video.mp4
 B.Tech student 
 🎓 AI/ML • Data Science •  Computer Vision • Google Cloud 
 🔗 [LinkedIn](https://www.linkedin.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
+
+## 📝 License
+n.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
 
 ## 📝 License
  MIT License © 2025 Samartha
